@@ -1,0 +1,8 @@
+1. create project 
+2. set urls.py using include and in app urls too
+3. views.py >> add function and call the same in urls.py, use either http response or render return
+4.while using render you can use the context tags in html and print the same in the server.
+5.can create the templates and add the same in the settings.py 
+6.create a form in html and create the count words screen using html and urls.oy and also views.py
+7. Can write logics in views.py and control in html files using the tags and for iteration loops
+8. {% urls 'count'%} Count is just a name in urls.py link. we use that in actions or ahref link to go to other screen.
